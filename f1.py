@@ -16,6 +16,11 @@ class Calculator:
     def  __init__(self):
         return None
         
-     def divide(self, x1,x2):
+    def divide(self, x1,x2):
          return dv.divide(x1,x2)
+
+    def addition(self,x1,x2):
+        return ad.add(x1,x2)
+    
+
         
