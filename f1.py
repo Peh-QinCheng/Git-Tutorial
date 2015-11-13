@@ -16,5 +16,6 @@ class Calculator:
     def  __init__(self):
         return None
         
-        
+     def divide(self, x1,x2):
+         return dv.divide(x1,x2)
         
